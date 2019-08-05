@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:Piliponful/node-starter.git
+[submodule "client"]
+	path = client
+	url = git@github.com:Piliponful/react-starter.git
